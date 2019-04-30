@@ -1,5 +1,5 @@
 # StyleganSetup_anaconda
-Saw that there wasnt really a guide for setting up the environemnt so made a jupyter notebook with instructions to get the environemnt set up in anaconda 
+Saw that there wasnt really a guide for setting up the environemnt so made a jupyter notebook with instructions to get the environment set up in anaconda 
 
 
 
